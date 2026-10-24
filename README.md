@@ -49,5 +49,4 @@ def siyal(self, bouton):
 
 def risk(self, bouton):
     self.repons.text = "Toujou kontwole risk yo."
-
 TradeAI().run()
